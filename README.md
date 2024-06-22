@@ -1,6 +1,9 @@
 ### 🏄‍♂️ Ignacio Abrams
 
+** <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> **
+
 **`Software Developer`**
+
 
 I am a recent University of Dayton graduate with a Bachelor of Science in Computer Information Systems and Business Administration. Proficient in Python, JavaScript, and Java programming. Experienced in project management, utilizing agile methodologies like Scrum and Kanban to deliver projects efficiently. Driven to expand my knowledge in cybersecurity and contribute innovative solutions to the software development field.
 
@@ -23,3 +26,5 @@ I am a recent University of Dayton graduate with a Bachelor of Science in Comput
 <br />
 
 #
+
+ 
