@@ -7,7 +7,7 @@
 **`Software Developer`**
 
 
-I am a recent University of Dayton graduate with a Bachelor of Science in Computer Information Systems and Business Administration. Proficient in Python, JavaScript, and Java programming. Experienced in project management, utilizing agile methodologies like Scrum and Kanban to deliver projects efficiently. Driven to expand my knowledge in cybersecurity and contribute innovative solutions to the software development field.
+I am a recent graduate from the University of Dayton with a Bachelor of Science in Computer Information Systems and Business Administration. I have experience in network administration, programming, graphic design, cybersecurity, and help desk services combined with the capacity to understand problems intuitively, strategize a course of action, and create robust solutions that aid productivity, communication, and network integrity. With technical acumen, solid leadership, project management, and team-building skills, I aspire to deliver effective and innovative technological solutions.
 
 
 ---
