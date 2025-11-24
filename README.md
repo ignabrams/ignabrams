@@ -7,7 +7,7 @@
 **`Software Developer`**
 
 
-I am a recent graduate from the University of Dayton with a Bachelor of Science in Computer Information Systems and Business Administration. I have experience in network administration, programming, graphic design, cybersecurity, and help desk services combined with the capacity to understand problems intuitively, strategize a course of action, and create robust solutions that aid productivity, communication, and network integrity. With technical acumen, solid leadership, project management, and team-building skills, I aspire to deliver effective and innovative technological solutions.
+I am a Full Stack Developer with experience in network administration, programming, cybersecurity, and help desk services combined with the capacity to understand problems intuitively, strategize a course of action, and create robust solutions that aid productivity, communication, and network integrity. With technical acumen, solid leadership, project management, and team-building skills, I aspire to deliver effective and innovative technological solutions.
 
 
 ---
